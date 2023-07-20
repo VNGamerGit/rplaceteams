@@ -1,0 +1,29 @@
+{
+
+  "contact": "r/DoctorWho, template made by cherries (entropyonline_001 on Discord) and co.",
+
+  "templates": [
+
+    {
+
+      "name": "r/DoctorWho template (?)",
+
+      "sources": [
+
+        "https://raw.githubusercontent.com/VNGamerGit/rplaceteams/main/download.png"
+
+      ],
+
+      "x": 0,
+
+      "y": 0
+
+    }
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
