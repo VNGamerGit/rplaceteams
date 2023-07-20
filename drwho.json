@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/guGHu23Z",
+  "templates": [
+    {
+      "name": "Doctor Whom",
+      "sources": [
+        "https://i.imgur.com/kCGwDoM.png"
+      ],
+      "x": 71
+      "y": 446
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
